@@ -2,7 +2,9 @@ export default class MealService {
   _apiBase = "https://meal.hubsquadron.org";
 
   getResourse = async (url) => {
-    const res = await fetch(`${this._apiBase}${url}`);
+    const res = await fetch(`${this._apiBase}${url}`, {
+      accept: "application/json",
+    });
 
     if (!res.ok) {
       throw new Error(`Couldn't fetch ${url}, recieved ${res.status}`);
@@ -76,7 +78,7 @@ export default class MealService {
   };
 
   getFriedge = async () => {
-    const res = await this.getResourse(`/fridge/`);
+    const res = await this.getResourse(`/fridge`);
     return res;
   };
 
