@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/meal-front/static/css/main.2f46b4b1.css",
-    "main.js": "/meal-front/static/js/main.d7108840.js",
+    "main.css": "/meal-front/static/css/main.1bd5ba8e.css",
+    "main.js": "/meal-front/static/js/main.ef18d718.js",
     "static/media/image.png": "/meal-front/static/media/image.2d9a18c811f370069fcb.png",
     "static/media/map.png": "/meal-front/static/media/map.7abec749a9775a2aeb43.png",
     "static/media/kitchen-set-solid.svg": "/meal-front/static/media/kitchen-set-solid.7bff5103e172d6fb25f0.svg",
     "index.html": "/meal-front/index.html",
-    "main.2f46b4b1.css.map": "/meal-front/static/css/main.2f46b4b1.css.map",
-    "main.d7108840.js.map": "/meal-front/static/js/main.d7108840.js.map"
+    "main.1bd5ba8e.css.map": "/meal-front/static/css/main.1bd5ba8e.css.map",
+    "main.ef18d718.js.map": "/meal-front/static/js/main.ef18d718.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f46b4b1.css",
-    "static/js/main.d7108840.js"
+    "static/css/main.1bd5ba8e.css",
+    "static/js/main.ef18d718.js"
   ]
 }
