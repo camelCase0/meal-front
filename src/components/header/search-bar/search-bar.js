@@ -18,7 +18,9 @@ const SearchBar = ({ searchItems }) => {
     );
   return (
     <Link to="/dishes">
-      <i className="fa-solid fa-magnifying-glass"></i>
+      <button className="btn btn-none">
+        <i className="fa-solid fa-magnifying-glass"></i>
+      </button>
     </Link>
   );
 };

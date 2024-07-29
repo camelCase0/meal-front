@@ -19,8 +19,8 @@ const Main = () => {
         </div>
       </div>
       <div className="row list-m">
-        <div className="back-img-1"></div>
-        <div className="back-img-2"></div>
+        {/* <div className="back-img-1"></div>
+        <div className="back-img-2"></div> */}
         <div className="col-1 col-sm-1 col-md-2 col-lg-2"></div>
         <div className="col-10 col-sm-10 col-md-8 col-lg-8 dish-list-main">
           <h2>Meal of the week</h2>

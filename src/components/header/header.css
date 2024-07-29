@@ -50,8 +50,8 @@
 }
 .header div {
   display: flex;
-  text-align: center;
-  justify-content: center;
+  text-align: left;
+  justify-content: left;
 }
 .search {
   display: flex;
@@ -86,4 +86,9 @@
   font-family: Josefin sans;
   font-size: 2vmin;
   font-weight: bold;
+}
+.searchdiv {
+  margin-top: auto;
+  margin-bottom: auto;
+
 }
